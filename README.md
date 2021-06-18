@@ -1,4 +1,5 @@
-Solution for the 21st place in Kaggle “Indoor Location & Navigation” competition hosted by Microsoft Research.
+# Solution for the 21st place in Kaggle “Indoor Location & Navigation” competition hosted by Microsoft Research.
+
 ![Traj](https://user-images.githubusercontent.com/73600288/122586877-79447e80-d05d-11eb-8989-745dc089e50a.png)
 
 Public leaderboard (precision of 2.9 m versus 0.9/5.5/16.3 m of min/median/mean):
